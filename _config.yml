@@ -2,6 +2,7 @@ name: dmikitik
 favicon: null
 layout_spectrum: 0.8778585768304765
 typography_spectrum: 0.8268615289125592
+title: Test
 cta:
   domain: null
   bucket: null
